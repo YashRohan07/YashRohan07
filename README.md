@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, I'm Yash Rohan </h1>
-<h3 align="center">A passionate frontend developer....</h3>
+<h3 align="center">A Passionate Frontend Developer....</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrohan07&label=Profile%20views&color=0e75b6&style=flat" alt="yashrohan07" /> </p>
 
-- 📫 How to reach me **yashrohan22@gmail.com**
+- 📫 How to reach me **yashrohan22@gmail.com**  [MS Teams:22-46636-1]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
