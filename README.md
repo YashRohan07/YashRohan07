@@ -13,6 +13,9 @@
 <p align="left">
 <a href="https://m.me/yashrohan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.me/yashrohan07" height="30" width="40" /></a>
 </p>
+<a href="[https://m.me/yashrohan07](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B1LKx4mdaQVqO79vqXbockQ%3D%3D)" target="blank"><img align="center" src="[![image](https://github.com/YashRohan07/YashRohan07/assets/111037103/2a8f033d-4934-432d-90a1-23e9a12f7040)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw0ypbcwezdqhlcG5ZOwA2GV&ust=1715834872412000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPCB0KXtjoYDFQAAAAAdAAAAABAE)
+" alt="https://m.me/yashrohan07" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
