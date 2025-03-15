@@ -21,7 +21,7 @@
 
 <br/>
 <br/>
-## My Skills
+<h3 align="left">Language and Frameworks:</h3>
 
 <table>
   <tr>
