@@ -2,7 +2,7 @@
     Hi 👋, I'm Yash Rohan
 </h1>
 <h3 align="center">
-    A Full Stack Developer
+    A Full Stack Developer.
 </h3>
 
 <!-- Animated GIF (Centered) -->
