@@ -23,7 +23,7 @@
 ---
 ## How to reach me: 
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/YashRohan07/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32" />
   </a>
