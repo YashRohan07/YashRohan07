@@ -1,6 +1,3 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=MD.+YASH+ROHAN&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Yash+Rohan;Full-Stack+Developer+with+Frontend+and+Backend+Skills)](https://git.io/typing-svg)
 
