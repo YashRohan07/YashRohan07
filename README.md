@@ -14,7 +14,8 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrohan07&" alt="yashrohan07" />
-</p>
+</p> 
+
 <p align="center">
   <i>If no streak appears, it means I’m working — not just daily committing 😉</i>
 </p>
