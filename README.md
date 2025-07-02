@@ -83,4 +83,5 @@
 <!-- VISITORS COUNTER -->
 <div align="center">
   <p align="center"><b>Visitors Count</b></p>  
-  <img align="center" src="https://profile-counter.glitch.me/{YashRohan07}/
+  <img align="center" src="https://profile-counter.glitch.me/YashRohan07/count.svg" />
+</div>
