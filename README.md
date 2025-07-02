@@ -1,81 +1,86 @@
-<h1 align="center">
-    Hi 👋, I'm Yash Rohan
-</h1>
-<h3 align="center">
-    A Full Stack Developer.
-</h3>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=MD.+YASH+ROHAN&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<!-- Animated GIF (Centered) -->
-<p align="center">
-    <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Yash+Rohan;From+Bangladesh;Full-Stack+Developer+with+Frontend+and+Backend+Skills;Proficient+in+C%23,+ASP.NET,+React,+NextJS,+and+TailwindCSS;Currently+studying+at+AIUB)](https://git.io/typing-svg)
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yashrohan07&label=Profile%20views&color=0e75b6&style=flat" alt="yashrohan07" />
-</p>
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashRohan07&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
+</div>
 
-### 📫 How to Reach Me:
-- **Email**: [yashrohan22@gmail.com](mailto:yashrohan22@gmail.com)
-- **MS Teams**: 22-46636-1
+<!-- STATS -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Yash Rohan's GitHub Stats" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://m.me/yashrohan07" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/yashrohan07" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
-    </a>
-</p>
+<!-- STREAK -->
+<div align="center">
+  <img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashRohan07&theme=tokyonight&hide_border=true&background=0D1117" alt="Yash Rohan's GitHub Streak"/>
+</div>
 
-<h3 align="center">Languages & Frameworks:</h3>
+---
 
-<table align="center">
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></td>
-        <td><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="nestjs" width="40" height="40"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="asp.net" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="phpmyadmin" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40"/></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></td>
-    </tr>
-</table>
+### ⚙️ **Main Frameworks**
 
-<h3 align="center">My GitHub Stats:</h3>
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&labelColor=0D1117)&nbsp;
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrohan07&show_icons=true&locale=en&layout=compact" alt="yashrohan07" />
-</p>
+---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yashrohan07&show_icons=true&locale=en" alt="yashrohan07" />
-</p>
+### 💡 **Main Skills**
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrohan07&" alt="yashrohan07" />
-</p>
-                        
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
+
+---
+
+### 🛠️ **Tools**
+
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visualstudio&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+
+---
+
+### 📚 **Currently Studying**
+
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
+
+---
+
+### 🚀 **Areas of Interest**
+
+![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=openai&labelColor=0D1117)&nbsp;
+![Web Development](https://img.shields.io/badge/-Web%20Development-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
+
+---
+
+## 📫 **Let’s Connect**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117)](https://www.linkedin.com/in/YashRohan07/)
+[![Facebook](https://img.shields.io/badge/-Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0D1117)](https://m.me/yashrohan07)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/YashRohan07)
+[![Gmail](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117)](mailto:yashrohan22@gmail.com)
+
+---
+
+<!-- VISITORS COUNTER -->
+<div align="center">
+  <p align="center"><b>Visitors Count</b></p>  
+  <img align="center" src="https://profile-counter.glitch.me/{YashRohan07}/
