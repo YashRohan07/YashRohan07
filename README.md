@@ -4,6 +4,11 @@
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Yash+Rohan;Full-Stack+Developer+with+Frontend+and+Backend+Skills)](https://git.io/typing-svg)
 
+<!-- Animated GIF (Centered) -->
+<p align="center">
+    <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
 <!-- STATS -->
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Yash Rohan's GitHub Stats" />
