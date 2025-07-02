@@ -20,6 +20,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRohan07&theme=tokyonight&hide_border=true&background=0D1117" alt="Yash Rohan's GitHub Streak" />
 </p>
 
+<p align="center">
+  <i>If no streak appears, it means I’m working smart — not just daily committing 😉</i>
+</p>
+
+
 
 ---
 
