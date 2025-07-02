@@ -12,9 +12,10 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashrohan07&" alt="yashrohan07" />
-</p> 
+<!--Streak  -->
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrohan07&theme=tokyonight&hide_border=true&background=0D1117" alt="yashrohan07" />
+</div>
 
 <p align="center">
   <i>If no streak appears, it means I’m working — not just daily committing 😉</i>
