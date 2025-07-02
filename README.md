@@ -15,10 +15,11 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
-<!-- ./Contribution Streak  -->
-<div align="center">
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasib2202&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" alt="Mostofa Hasib's GitHub Streak" />
-</div>
+<!-- GITHUB STREAK -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRohan07&theme=tokyonight&hide_border=true&background=0D1117" alt="Yash Rohan's GitHub Streak" />
+</p>
+
 
 ---
 
