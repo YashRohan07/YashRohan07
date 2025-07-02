@@ -2,12 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=180&section=header&text=MD.+YASH+ROHAN&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Yash+Rohan;From+Bangladesh;Full-Stack+Developer+with+Frontend+and+Backend+Skills;Proficient+in+C%23,+ASP.NET,+React,+NextJS,+and+TailwindCSS;Currently+studying+at+AIUB)](https://git.io/typing-svg)
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YashRohan07&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Yash+Rohan;Full-Stack+Developer+with+Frontend+and+Backend+Skills)](https://git.io/typing-svg)
 
 <!-- STATS -->
 <div align="center">
