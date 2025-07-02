@@ -8,7 +8,7 @@
 
 <!-- STATS -->
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Yash Rohan's GitHub Stats" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Yash Rohan's GitHub Stats" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
