@@ -20,7 +20,7 @@
 </p>  
 
 <p align="center">
-  <i>If no streak appears, it means I’m working smart — not just daily committing 😉</i>
+  <i>If no streak appears, it means I’m working — not just daily committing 😉</i>
 </p>
 
 
