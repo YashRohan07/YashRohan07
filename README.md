@@ -21,8 +21,25 @@
 
 
 ---
+## How to reach me: 
 
-### ⚙️ **Main Frameworks & Libraries**
+<p align="center">
+  <a href="https://www.linkedin.com/in/YashRohan07/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32" />
+  </a>
+
+  <a href="mailto:yashrohan22@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32" />
+  </a>
+  
+  <a href="https://m.me/yashrohan07" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="32" height="32" />
+  </a>
+</p>
+
+---
+
+### **Main Frameworks & Libraries**
 
 <span>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -33,7 +50,7 @@
 
 ---
 
-### 💡 **Languages & Skills**
+### **Languages & Skills**
 
 <span>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -49,7 +66,7 @@
 
 ---
 
-### 🗄️ **Databases**
+### **Databases**
 
 <span>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
@@ -59,7 +76,7 @@
 
 ---
 
-### ⚙️ **Version Control & Tools**
+### **Version Control & Tools**
 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -72,7 +89,7 @@
 
 ---
 
-### 🚀 **Architecture & Concepts**
+### **Architecture & Concepts**
 
 <span>
   <img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" alt="MVC" />
@@ -81,34 +98,15 @@
 
 ---
 
-### 📚 **Currently Learning**
+###  **Currently Learning**
 
 <span>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logo=opencv&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data_Science-FF6F61?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-4B0082?style=for-the-badge&logo=opencv&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF4500?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Science-228B22?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Science" />
 </span>
-
----
-
-## 📫 **Let’s Connect**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YashRohan07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://m.me/yashrohan07" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://github.com/YashRohan07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:yashrohan22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 
 ---
 
