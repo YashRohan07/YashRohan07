@@ -19,9 +19,8 @@
 ### 👨‍💻 &nbsp;About Me
 
 - 🏢 &nbsp;**Software Developer** at **Devexa IT Ltd**, Dhaka &nbsp;*(Oct 2025 – Present)*
-- 🔬 &nbsp;Ex **Research Engineer Intern** — Applied Intelligence & Informatics Lab, Nottingham, UK
-- 🎓 &nbsp;**BSc in Computer Science & Engineering** · Major: **Software Engineering**
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American International University-Bangladesh *(AIUB)*
+- 🔬 &nbsp;Ex **Research Engineer Intern** - Applied Intelligence & Informatics Lab, Nottingham, UK
+- 🎓 &nbsp;**BSc in Computer Science & Engineering** - American International University-Bangladesh *(AIUB)*
 - 📫 &nbsp;**yashrohan22@gmail.com**
 - 📍 &nbsp;Dhaka, Bangladesh
 
