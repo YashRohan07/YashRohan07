@@ -18,16 +18,12 @@
 <!-- ABOUT ME -->
 ### 👨‍💻 &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" width="38%" alt="Top Languages"/>
-
 - 🏢 &nbsp;**Software Developer** at **Devexa IT Ltd**, Dhaka &nbsp;*(Oct 2025 – Present)*
-- 🔬 &nbsp;Ex **Research Engineer Intern** - Applied Intelligence & Informatics Lab, Nottingham, UK
+- 🔬 &nbsp;Ex **Research Engineer Intern** — Applied Intelligence & Informatics Lab, Nottingham, UK
 - 🎓 &nbsp;**BSc in Computer Science & Engineering** · Major: **Software Engineering**
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American International University-Bangladesh *(AIUB)*
 - 📫 &nbsp;**yashrohan22@gmail.com**
 - 📍 &nbsp;Dhaka, Bangladesh
-
-<br clear="right"/>
 
 ---
 
@@ -36,6 +32,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YashRohan07&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" />
+</div>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <p align="center">
