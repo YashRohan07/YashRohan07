@@ -1,121 +1,142 @@
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Md+Yash+Rohan;Full-Stack+Developer+with+Frontend+and+Backend+Skills)](https://git.io/typing-svg)
+<!-- HEADER -->
+<div align="center">
 
-<!-- Animated GIF (Centered) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Md.+Yash+Rohan+%F0%9F%91%8B;Full+Stack+Software+Developer;ASP.NET+Core+%7C+Laravel+%7C+React+%7C+Angular;Building+Scalable+%26+Secure+Web+Systems)](https://git.io/typing-svg)
+
+<br/>
+
 <p align="center">
-    <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="coding gif" />
 </p>
 
-<!-- STATS -->
-<div align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Yash Rohan's GitHub Stats" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
 
-<!--Streak  -->
+<br/>
+
+---
+
+<!-- ABOUT ME -->
+### 👨‍💻 &nbsp;About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" width="38%" alt="Top Languages"/>
+
+- 🏢 &nbsp;**Software Developer** at **Devexa IT Ltd**, Dhaka &nbsp;*(Oct 2025 – Present)*
+- 🔬 &nbsp;Ex **Research Engineer Intern** — Applied Intelligence & Informatics Lab, Nottingham, UK
+- 🎓 &nbsp;**BSc in Computer Science & Engineering** · Major: **Software Engineering**
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;American International University-Bangladesh *(AIUB)*
+- 📫 &nbsp;**yashrohan22@gmail.com**
+- 📍 &nbsp;Dhaka, Bangladesh
+
+<br clear="right"/>
+
+---
+
+<!-- GITHUB STATS -->
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashrohan07&theme=tokyonight&hide_border=true&background=0D1117" alt="yashrohan07" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YashRohan07&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" />
 </div>
 
----
-
 <p align="center">
-  <i>If no streak appears, it means I’m working — not just daily committing 😉</i>
+  <i>📌 If no streak appears, it means I'm working — not just daily committing 😉</i>
 </p>
 
-<!-- 
-## How to reach me: 
+<br/>
 
-<p align="">
-  <a href="https://www.linkedin.com/in/YashRohan07/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="32" height="32" />
-  </a>
+---
 
-  <a href="mailto:yashrohan22@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="32" height="32" />
-  </a>
-  
-  <a href="https://m.me/yashrohan07" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="32" height="32" />
-  </a>
+<!-- TECH STACK -->
+## 🛠️ &nbsp;Tech Stack
+
+#### ⚙️ &nbsp;Backend
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-FF6F00?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
--->
+
+#### 🎨 &nbsp;Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### 💻 &nbsp;Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+#### 🗄️ &nbsp;Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### 🔐 &nbsp;Security & Auth
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-4B0082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BCrypt-5C5C5C?style=for-the-badge&logoColor=white" />
+</p>
+
+#### 🏗️ &nbsp;Architecture & Design
+
+<p>
+  <img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Layered_Architecture-6A0DAD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-228B22?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Service--Repository_Pattern-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge&logoColor=white" />
+</p>
+
+#### 🔧 &nbsp;Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-00A86B?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+<br/>
 
 ---
 
-### **Main Frameworks & Libraries**
+## 📈 &nbsp;Currently Improving
 
-<span>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</span>
+<p>
+  <img src="https://img.shields.io/badge/System_Design-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-00A86B?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF4500?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge&logoColor=white" />
+</p>
 
----
-
-### **Languages & Skills**
-
-<span>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</span>
+<br/>
 
 ---
 
-### **Databases**
-
-<span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</span>
-
----
-
-### **Version Control & Tools**
-
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</span>
-
----
-
-### **Architecture & Concepts**
-
-<span>
-  <img src="https://img.shields.io/badge/MVC-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" alt="MVC" />
-  <img src="https://img.shields.io/badge/RESTful_API-61DAFB?style=for-the-badge&logo=postman&logoColor=black" alt="REST API" />
-</span>
-
----
-
-###  **Currently Learning**
-
-<span>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-4B0082?style=for-the-badge&logo=opencv&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF4500?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data_Science-228B22?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Data Science" />
-</span>
-
----
-
-<!-- VISITORS COUNTER -->
+<!-- PROFILE VIEWS -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yashrohan07&label=Profile%20views&color=0e75b6&style=flat" alt="yashrohan07" />
+  <img src="https://komarev.com/ghpvc/?username=yashrohan07&label=Profile+Views&color=70a5fd&style=flat-square" />
 </p>
-
