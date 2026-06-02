@@ -29,13 +29,13 @@
 
 <!-- GITHUB STATS -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YashRohan07&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashRohan07&show_icons=true&theme=tokyonight&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&count_private=true&cache_seconds=1800" height="180" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YashRohan07&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashRohan07&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" height="180" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRohan07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=70a5fd&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" height="160" />
 </div>
 
 <p align="center">
